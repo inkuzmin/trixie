@@ -1,0 +1,15 @@
+{
+  "name": "trixie",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "The great and powerful Trixie theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/inkuzmin/trixie",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
